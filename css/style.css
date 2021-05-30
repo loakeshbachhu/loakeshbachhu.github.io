@@ -42,6 +42,15 @@ a {
   text-decoration: none;
 }
 
+.resume {
+  color:  #0f0;
+  text-decoration: none;
+}
+
+li {
+  font-size: 125%;
+}
+
 p {
   margin: 20px 0;
 }
